@@ -49,7 +49,3 @@ highlight StatusLineWarningCount ctermbg=58 ctermfg=white cterm=none
 highlight CtrlPMatch ctermfg=green cterm=bold
 highlight NERDTreeClosable ctermfg=darkgreen
 highlight NERDTreeOpenable ctermfg=darkgreen
-highlight ALEError ctermbg=red ctermfg=yellow cterm=bold
-highlight ALEWarning ctermbg=yellow ctermfg=black
-highlight link ALEStyleError ALEError
-highlight link ALEStyleWarning ALEWarning
