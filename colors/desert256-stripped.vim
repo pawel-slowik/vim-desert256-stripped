@@ -18,7 +18,7 @@ highlight FoldColumn ctermfg=180 ctermbg=238
 highlight IncSearch ctermfg=66 ctermbg=222
 highlight ModeMsg ctermfg=178
 highlight MoreMsg ctermfg=29
-highlight NonText ctermfg=152 ctermbg=16 cterm=bold
+highlight NonText ctermfg=152 cterm=bold
 highlight Question ctermfg=48
 highlight Search ctermfg=223 ctermbg=172
 highlight QuickFixLine ctermfg=white ctermbg=89
