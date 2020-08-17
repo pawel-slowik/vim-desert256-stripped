@@ -32,6 +32,8 @@ highlight PmenuSel ctermbg=brown ctermfg=white
 highlight SignColumn ctermbg=233
 highlight VertSplit ctermbg=233 cterm=none
 highlight LineNr ctermfg=29
+highlight Error ctermfg=none ctermbg=88
+highlight SpellBad ctermfg=none ctermbg=89
 
 " status line colors
 highlight StatusLine ctermfg=222 ctermbg=233 cterm=none
