@@ -34,6 +34,7 @@ highlight VertSplit ctermbg=233 cterm=none
 highlight LineNr ctermfg=29
 highlight Error ctermfg=none ctermbg=88
 highlight SpellBad ctermfg=none ctermbg=89
+highlight CursorLine ctermbg=58 cterm=none
 
 " status line colors
 highlight StatusLine ctermfg=222 ctermbg=233 cterm=none
@@ -52,3 +53,10 @@ highlight StatusLineWarningCount ctermbg=58 ctermfg=white cterm=none
 highlight CtrlPMatch ctermfg=green cterm=bold
 highlight NERDTreeClosable ctermfg=darkgreen
 highlight NERDTreeOpenable ctermfg=darkgreen
+" NERDTree file type highlighting clashes with CursorLine setting
+highlight! link NERDTreeExecFile Normal
+highlight! link NERDTreeDir Normal
+highlight! link NERDTreeLinkFile Normal
+highlight! link NERDTreeLinkDir Normal
+highlight! link NERDTreeLinkTarget Normal
+highlight! link NERDTreeRO Normal
