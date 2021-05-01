@@ -3,7 +3,7 @@
 " syntax colors
 highlight Constant ctermfg=217
 highlight Comment ctermfg=117
-highlight Function ctermfg=120 cterm=none
+highlight Function None
 highlight Statement ctermfg=222
 highlight PreProc ctermfg=167
 highlight Type ctermfg=143
