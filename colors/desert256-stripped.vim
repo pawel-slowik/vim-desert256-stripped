@@ -23,7 +23,7 @@ highlight Question ctermfg=48
 highlight Search ctermfg=223 ctermbg=172
 highlight QuickFixLine ctermfg=white ctermbg=89
 highlight SpecialKey ctermfg=112
-highlight Title ctermfg=167
+highlight Title ctermfg=180
 highlight Visual cterm=reverse
 highlight WarningMsg ctermfg=209
 highlight Ignore ctermfg=240
