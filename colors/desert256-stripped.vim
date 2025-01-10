@@ -24,7 +24,7 @@ highlight Search ctermfg=223 ctermbg=172
 highlight QuickFixLine ctermfg=white ctermbg=89
 highlight SpecialKey ctermfg=112
 highlight Title ctermfg=180
-highlight Visual cterm=reverse
+highlight Visual cterm=reverse ctermbg=none ctermfg=none
 highlight WarningMsg ctermfg=209
 highlight Ignore ctermfg=240
 highlight Pmenu ctermbg=darkblue ctermfg=white
