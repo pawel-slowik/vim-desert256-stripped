@@ -61,8 +61,3 @@ highlight! link NERDTreeLinkFile Normal
 highlight! link NERDTreeLinkDir Normal
 highlight! link NERDTreeLinkTarget Normal
 highlight! link NERDTreeRO Normal
-
-highlight BufTabLineCurrent ctermbg=233 ctermfg=229
-highlight BufTabLineActive ctermbg=233 ctermfg=151
-highlight BufTabLineHidden ctermbg=233 ctermfg=251
-highlight BufTabLineFill ctermfg=233 ctermbg=233
